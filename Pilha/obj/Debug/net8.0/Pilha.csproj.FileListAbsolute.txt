@@ -1,0 +1,14 @@
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\bin\Debug\net8.0\Pilha.exe
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\bin\Debug\net8.0\Pilha.deps.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\bin\Debug\net8.0\Pilha.runtimeconfig.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\bin\Debug\net8.0\Pilha.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\bin\Debug\net8.0\Pilha.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\Pilha.AssemblyInfoInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\Pilha.AssemblyInfo.cs
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\Pilha.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\Pilha.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\refint\Pilha.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\Pilha.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\Pilha.genruntimeconfig.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Pilha\obj\Debug\net8.0\ref\Pilha.dll

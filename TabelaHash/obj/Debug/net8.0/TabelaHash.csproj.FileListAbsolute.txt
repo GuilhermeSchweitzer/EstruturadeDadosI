@@ -1,0 +1,14 @@
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\bin\Debug\net8.0\TabelaHash.exe
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\bin\Debug\net8.0\TabelaHash.deps.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\bin\Debug\net8.0\TabelaHash.runtimeconfig.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\bin\Debug\net8.0\TabelaHash.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\bin\Debug\net8.0\TabelaHash.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\TabelaHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\TabelaHash.AssemblyInfoInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\TabelaHash.AssemblyInfo.cs
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\TabelaHash.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\TabelaHash.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\refint\TabelaHash.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\TabelaHash.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\TabelaHash.genruntimeconfig.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\TabelaHash\obj\Debug\net8.0\ref\TabelaHash.dll

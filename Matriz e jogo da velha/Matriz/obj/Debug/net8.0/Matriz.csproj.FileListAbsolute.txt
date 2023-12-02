@@ -1,0 +1,14 @@
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\bin\Debug\net8.0\Matriz.exe
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\bin\Debug\net8.0\Matriz.deps.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\bin\Debug\net8.0\Matriz.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\bin\Debug\net8.0\Matriz.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\Matriz.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\Matriz.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Matriz\obj\Debug\net8.0\ref\Matriz.dll

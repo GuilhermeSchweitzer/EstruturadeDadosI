@@ -1,0 +1,14 @@
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\bin\Debug\net8.0\Fila.exe
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\bin\Debug\net8.0\Fila.deps.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\bin\Debug\net8.0\Fila.runtimeconfig.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\bin\Debug\net8.0\Fila.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\bin\Debug\net8.0\Fila.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\Fila.AssemblyInfoInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\Fila.AssemblyInfo.cs
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\Fila.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\Fila.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\refint\Fila.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\Fila.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\Fila.genruntimeconfig.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\Fila\obj\Debug\net8.0\ref\Fila.dll
