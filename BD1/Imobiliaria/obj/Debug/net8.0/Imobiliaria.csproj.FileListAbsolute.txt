@@ -1,0 +1,15 @@
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\bin\Debug\net8.0\Imobiliaria.exe
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\bin\Debug\net8.0\Imobiliaria.deps.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\bin\Debug\net8.0\Imobiliaria.runtimeconfig.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\bin\Debug\net8.0\Imobiliaria.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\bin\Debug\net8.0\Imobiliaria.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\Imobiliaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\Imobiliaria.AssemblyInfoInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\Imobiliaria.AssemblyInfo.cs
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\Imobiliaria.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\Imobiliaria.sourcelink.json
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\Imobiliaria.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\refint\Imobiliaria.dll
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\Imobiliaria.pdb
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\Imobiliaria.genruntimeconfig.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Imobiliaria\obj\Debug\net8.0\ref\Imobiliaria.dll

@@ -1,0 +1,5 @@
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Ficha_Cadastral\obj\Debug\net8.0\Ficha_Cadastral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Ficha_Cadastral\obj\Debug\net8.0\Ficha_Cadastral.AssemblyInfoInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Ficha_Cadastral\obj\Debug\net8.0\Ficha_Cadastral.AssemblyInfo.cs
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Ficha_Cadastral\obj\Debug\net8.0\Ficha_Cadastral.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.schweitzer\Desktop\Sinais.txt\BD1\Ficha_Cadastral\obj\Debug\net8.0\Ficha_Cadastral.sourcelink.json
